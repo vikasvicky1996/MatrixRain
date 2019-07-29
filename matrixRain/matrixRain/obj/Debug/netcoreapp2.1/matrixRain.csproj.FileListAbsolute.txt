@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\matrixRain\matrixRain\obj\Debug\netcoreapp2.1\matrixRain.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\matrixRain\matrixRain\obj\Debug\netcoreapp2.1\matrixRain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\matrixRain\matrixRain\obj\Debug\netcoreapp2.1\matrixRain.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\matrixRain\matrixRain\obj\Debug\netcoreapp2.1\matrixRain.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\matrixRain\matrixRain\bin\Debug\netcoreapp2.1\matrixRain.deps.json
+C:\Users\ASUS\source\repos\matrixRain\matrixRain\bin\Debug\netcoreapp2.1\matrixRain.runtimeconfig.json
+C:\Users\ASUS\source\repos\matrixRain\matrixRain\bin\Debug\netcoreapp2.1\matrixRain.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\matrixRain\matrixRain\bin\Debug\netcoreapp2.1\matrixRain.dll
+C:\Users\ASUS\source\repos\matrixRain\matrixRain\bin\Debug\netcoreapp2.1\matrixRain.pdb
+C:\Users\ASUS\source\repos\matrixRain\matrixRain\obj\Debug\netcoreapp2.1\matrixRain.dll
+C:\Users\ASUS\source\repos\matrixRain\matrixRain\obj\Debug\netcoreapp2.1\matrixRain.pdb
